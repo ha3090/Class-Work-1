@@ -1,1 +1,1 @@
-<?php include_once("studentprofile.html"); ?> 
+<?php include_once("studentProfile.html"); ?> 
